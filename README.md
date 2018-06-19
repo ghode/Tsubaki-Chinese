@@ -8,7 +8,7 @@ Lyrics here
 |3|<a href="https://www.xiami.com/song/xNfNIWc8e3d?spm=a1z1s.6659513.0.0.husPBk">否</a>|米夏|初润||||虾米没有lrc||
 |4|<a href="https://www.xiami.com/song/mSuOUu85cea?spm=a1z1s.6659513.0.0.18QF4k">Secret</a>|月都人形|✓||||虾米没有lrc|
 |5|<a href="https://www.xiami.com/song/mSuOUx79ce4?spm=a1z1s.6659513.0.0.HfCj9t">アマのジャク恋愛論</a>|米夏|初润||||虾米没有lrc|
-|6|<a href="https://www.xiami.com/song/JAVfOj1f59f?spm=a1z1s.6659513.0.0.KePann">高き空に咲く花よ</a>|月都人形|✓|✓|✓|✓||
+|6|<a href="https://www.xiami.com/song/JAVfOj1f59f?spm=a1z1s.6659513.0.0.KePann">高き空に咲く花よ</a>|月都人形|✓|✓|✓|审核中||
 |7|<a href="https://www.xiami.com/song/mQU1kE73a91?spm=a1z1s.3521865.23309997.1.5a2huc">儚</a>|南飞雁|初润|||||
 |8|<a href="https://www.xiami.com/song/mQ98156756e?spm=a1z1s.3521865.23309997.21.0DIqLC">artful colors</a>|米夏|初润|||||
 |9|<a href="https://www.xiami.com/song/xLA842b6740?spm=a1z1s.3521865.23309997.1.p8xnJD">恋と無意識(A-HEAD Cover)</a>|南飞雁|✓|✓|✓|没有这首歌||
