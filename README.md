@@ -21,5 +21,4 @@ Lyrics here
 |16|<a href="https://www.xiami.com/song/U7Jk4d2bc7b?spm=a1z1s.3521865.23309997.13.3ZNFxd">Sister,Friend,Lover</a>|米夏|米夏|✓|✓|||
 |17|<a href="https://www.xiami.com/song/xLxKYC15cf9?spm=a1z1s.3521865.23309997.1.TGEDmV">ちいさな手のひら (CBKN House Cover)</a>|米夏|米夏|✓|✓|||
 |18|<a href="https://www.xiami.com/song/mQ87gS4ce4e?spm=a1z1s.3521865.23309997.1.EsGqFB">第六楽章 Dawn of East End</a>||润色1次|||||
-|19|<a href="https://www.xiami.com/song/bf0t7pl2fd74?spm=a1z1s.3521865.23309997.1.7berTS">No Direction</a>|||||||
-|20|<a href="https://www.xiami.com/song/8FZLpGf359c?spm=a1z1s.3521865.23309997.1.v2fGbO">Proof of River</a>|||||||
+|19|<a href="https://www.xiami.com/song/8FZLpGf359c?spm=a1z1s.3521865.23309997.1.v2fGbO">Proof of River</a>|||||||
