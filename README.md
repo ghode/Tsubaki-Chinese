@@ -1,7 +1,7 @@
 # Tsubaki-Chinese
 Lyrics here
 
-|No|Name|Translate|Polish|.lrc|Xiami|网易云|PostScript|
+|No.|Name|Translate|Polish|.lrc|Xiami|网易云|PostScript|
 |-|-|-|-|-|-|-|-|
 |1|<a href="https://www.xiami.com/song/xNfNISa5834?spm=a1z1s.3521865.23309997.1.nApNnD">疑いの芽</a>|南飞雁|✅|✅|✅|心圊玉茗||
 |2|<a href="https://www.xiami.com/song/mQB8ys830d1?spm=a1z1s.3521865.23309997.1.V72iqd">星空の河童</a>|民那|✅|✅|✅|✅||
