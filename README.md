@@ -12,7 +12,7 @@ Lyrics here
 |7|<a href="https://www.xiami.com/song/mQU1kE73a91?spm=a1z1s.3521865.23309997.1.5a2huc">儚</a>|南飞雁|初润|||||
 |8|<a href="https://www.xiami.com/song/mQ98156756e?spm=a1z1s.3521865.23309997.21.0DIqLC">artful colors</a>|米夏|初润|||||
 |9|<a href="https://www.xiami.com/song/xLA842b6740?spm=a1z1s.3521865.23309997.1.p8xnJD">恋と無意識(A-HEAD Cover)</a>|南飞雁|✅|✅|✅|||
-|10|<a href="https://www.xiami.com/song/xN01Jvccccc?spm=a1z1s.3521865.23309997.1.8O5pP8">Fiction×Real Syndrome</a>|南飞雁|✅|✅|✅|||
+|10|<a href="https://www.xiami.com/song/xN01Jvccccc?spm=a1z1s.3521865.23309997.1.8O5pP8">Fiction×Real Syndrome</a>|南飞雁|✅|✅|✅|✅||
 |11|<a href="https://www.xiami.com/song/xNfNJac8ef8?spm=a1z1s.3521865.23309997.1.YUSzDe">Doremy,love so sweet!</a>|米夏|✅|✅|✅|✅||
 |12|<a href="https://www.xiami.com/song/JCBLwb223b5?spm=a1z1s.6659513.0.0.0YEmzF">regalia</a>|✅||||Zimon字母君|撞了|
 |13|<a href="https://www.xiami.com/song/xLzilba1f16?spm=a1z1s.6659513.0.0.bvj5cg">夜螢光～Auld Lang Syne -bossa style-</a>|✅|润了3次|||||
