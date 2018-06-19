@@ -1,8 +1,15 @@
 # Tsubaki-Chinese
 Lyrics here
 
-| Name | Academy | score | 
-| - | :-: | -: | 
-| Harry Potter | Gryffindor| 90 | 
-| Hermione Granger | Gryffindor | 100 | 
-| Draco Malfoy | Slytherin | 90 |
+| No | Translate | Paint | .lrc | Upload | Translator | PostScript |
+| - | - | - | - | - | - | - | - | 
+| 1 | OK | - | - | - | - | - | - | 
+| 2 | OK | - | - | - | - | - | - | 
+| 3 | OK | - | - | - | - | - | - | 
+| 4 | OK | - | - | - | - | - | - | 
+| 5 | OK | - | - | - | - | - | - | 
+| 6 | OK | - | - | - | - | - | - | 
+| 7 | OK | - | - | - | - | - | - | 
+| 8 | OK | - | - | - | - | - | - | 
+| 9 | OK | - | - | - | - | - | - | 
+| 10 | OK | - | - | - | - | - | - | 
