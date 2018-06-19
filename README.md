@@ -1,7 +1,7 @@
 # Tsubaki-Chinese
 Lyrics here
 
-|No|Name|Translate|Paint|.lrc|Xiami|163|PostScript|
+|No|Name|Translate|Polish|.lrc|Xiami|163|PostScript|
 |-|-|-|-|-|-|-|-|
 |1|疑いの芽|南飞雁|✅|✅|✅|心圊玉茗||
 |2|星空の河童|民那|✅|✅|✅|✅||
