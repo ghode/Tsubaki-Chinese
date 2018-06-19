@@ -15,7 +15,11 @@ Lyrics here
 |10|<a href="https://www.xiami.com/song/xN01Jvccccc?spm=a1z1s.3521865.23309997.1.8O5pP8">Fiction×Real Syndrome</a>|南飞雁|✓|✓|✓|✓||
 |11|<a href="https://www.xiami.com/song/xNfNJac8ef8?spm=a1z1s.3521865.23309997.1.YUSzDe">Doremy,love so sweet!</a>|米夏|✓|✓|✓|✓||
 |12|<a href="https://www.xiami.com/song/JCBLwb223b5?spm=a1z1s.6659513.0.0.0YEmzF">regalia</a>|✓||||Zimon字母君|撞了|
-|13|<a href="https://www.xiami.com/song/xLzilba1f16?spm=a1z1s.6659513.0.0.bvj5cg">夜螢光～Auld Lang Syne -bossa style-</a>|✓|润了3次|||||
+|13|<a href="https://www.xiami.com/song/xLzilba1f16?spm=a1z1s.6659513.0.0.bvj5cg">夜螢光～Auld Lang Syne -bossa style-</a>|✓|润色3次|||||
 |14|<a href="https://www.xiami.com/song/mQEjw27c048?spm=a1z1s.6659513.0.0.Efdt1S">星を廻せ月より速く -Acoustic style-</a>|||||||
 |15|<a href="https://www.xiami.com/song/bf01d1x2d336?spm=a1z1s.6659513.0.0.E1rZuk">ユメガタリ -Acoustic style-</a>|||||||
 |16|<a href="https://www.xiami.com/song/U7Jk4d2bc7b?spm=a1z1s.3521865.23309997.13.3ZNFxd">Sister,Friend,Lover</a>|米夏|米夏|✓|✓|||
+|17|<a href="https://www.xiami.com/song/xLxKYC15cf9?spm=a1z1s.3521865.23309997.1.TGEDmV">ちいさな手のひら (CBKN House Cover)</a>|米夏|米夏|✓|✓|||
+|18|<a href="https://www.xiami.com/song/mQ87gS4ce4e?spm=a1z1s.3521865.23309997.1.EsGqFB">第六楽章 Dawn of East End</a>||润色1次|||||
+|19|<a href="https://www.xiami.com/song/bf0t7pl2fd74?spm=a1z1s.3521865.23309997.1.7berTS">No Direction</a>|||||||
+|20|<a href="https://www.xiami.com/song/8FZLpGf359c?spm=a1z1s.3521865.23309997.1.v2fGbO">Proof of River</a>|||||||
